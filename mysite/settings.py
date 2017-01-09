@@ -25,7 +25,7 @@ SECRET_KEY = '0+rh^@@#5eauy(#o3$_5dg$9xqs01r0(^i_c#v^^&%6*ae5966'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','route2sabya.pythonanywhere.com']
 
 
 # Application definition
